@@ -2,3 +2,6 @@ target
 results
 DbFitMvn.iml
 .idea
+.classpath
+.project
+.settings/
